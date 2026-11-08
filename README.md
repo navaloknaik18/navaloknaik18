@@ -7,7 +7,7 @@
 
   <br/><br/>
 
-  <!-- Interactive Typing Sub-Header -->
+  <!-- Animated Sub-Header -->
   <a href="https://github.com/navaloknaik18">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF2E2E&center=true&vCenter=true&width=750&lines=Dream+%E2%80%A2+Code+%E2%80%A2+Build+%E2%80%A2+Innovate;With+great+curiosity%2C+comes+greater+solutions.;CODE+TODAY...+BUILD+A+BETTER+TOMORROW..." alt="Typing Banner" />
   </a>
