@@ -2,7 +2,7 @@
 
   <!-- Main Hero Graphic Dashboard -->
   <a href="https://github.com/navaloknaik18">
-    <img src="https://raw.githubusercontent.com/navaloknaik18/navaloknaik18/main/Spider-Man%20AI%20Developer%20Portfolio%20Dashboard.png" width="100%" alt="BANOTHU NAVALOK NAIK - Spider-Man AI Developer Portfolio Dashboard" />
+    <img src="./dashboard.png" width="100%" alt="BANOTHU NAVALOK NAIK - Spider-Man AI Developer Portfolio Dashboard" />
   </a>
 
   <br/><br/>
