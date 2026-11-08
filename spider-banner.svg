@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+<title id="title">Spider-inspired GitHub profile banner</title>
+<desc id="desc">A cinematic black and red web-themed banner for Banothu Navalok Naik.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#050506"/><stop offset=".55" stop-color="#100306"/><stop offset="1" stop-color="#020203"/>
+  </linearGradient>
+  <radialGradient id="glow"><stop stop-color="#ff1b35" stop-opacity=".32"/><stop offset="1" stop-color="#ff1b35" stop-opacity="0"/></radialGradient>
+  <filter id="redGlow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <linearGradient id="red" x1="0" x2="1"><stop stop-color="#ff6674"/><stop offset=".5" stop-color="#ff102e"/><stop offset="1" stop-color="#9c0018"/></linearGradient>
+</defs>
+<rect width="1600" height="520" fill="url(#bg)"/>
+<circle cx="1310" cy="170" r="210" fill="url(#glow)"/>
+<circle cx="1310" cy="170" r="112" fill="#a90b20" opacity=".78"/>
+<circle cx="1274" cy="137" r="96" fill="#ed1b35" opacity=".32"/>
+<path d="M0 0 L360 0 M0 0 L0 300 M0 0 L260 260 M0 0 L420 180 M0 0 L180 420 M0 0 L520 0" stroke="#ff4259" stroke-width="1.5" opacity=".75" fill="none"/>
+<g stroke="#ff4259" stroke-width="1.2" opacity=".65" fill="none">
+ <path d="M0 70 Q160 80 260 0 M0 145 Q170 160 340 0 M0 225 Q190 235 420 0 M0 305 Q220 310 500 0"/>
+ <path d="M70 0 Q70 170 0 260 M150 0 Q150 210 0 370 M240 0 Q230 250 0 470 M330 0 Q300 270 0 520"/>
+ <path d="M1600 0 L1240 0 M1600 0 L1600 330 M1600 0 L1330 260 M1600 0 L1180 180 M1600 0 L1420 420 M1600 0 L1080 0"/>
+ <path d="M1600 70 Q1440 80 1340 0 M1600 145 Q1430 160 1260 0 M1600 225 Q1410 235 1180 0 M1600 305 Q1380 310 1100 0"/>
+ <path d="M1530 0 Q1530 170 1600 260 M1450 0 Q1450 210 1600 370 M1360 0 Q1370 250 1600 470 M1270 0 Q1300 270 1600 520"/>
+</g>
+<g opacity=".22" fill="#ff1835">
+ <path d="M1030 440V300h25v-65h25v80h25v-115h27v200h30v-155h25v-80h25v235h35v-120h28v-70h24v190h35v-145h26v-55h25v200z"/>
+</g>
+<g stroke="url(#red)" fill="none" stroke-width="3" filter="url(#redGlow)" opacity=".95">
+ <path d="M60 420 Q350 360 650 425 T1240 405 T1580 430"/>
+ <path d="M90 470 Q360 405 650 470 T1240 450 T1580 475" opacity=".5"/>
+</g>
+<!-- hanging spider motif -->
+<g transform="translate(1450 42)" stroke="#ff263e" fill="#d90927" stroke-width="3" filter="url(#redGlow)">
+ <path d="M0 -40V0" fill="none"/><ellipse cy="18" rx="10" ry="16"/><circle cy="-1" r="7"/>
+ <path d="M-7 7L-28 -4 -37 7 M7 7L28 -4 37 7 M-9 17L-34 22 -40 38 M9 17L34 22 40 38 M-8 27L-25 45 -30 57 M8 27L25 45 30 57" fill="none"/>
+</g>
+<g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+ <text x="800" y="78" fill="#f5dce0" font-size="25" letter-spacing="9">DREAM  •  CODE  •  BUILD  •  INNOVATE</text>
+ <text x="800" y="220" fill="#fff" font-size="76" font-weight="900" letter-spacing="1">BANOTHU <tspan fill="#ff263e">NAVALOK NAIK</tspan></text>
+ <path d="M330 242 Q800 270 1270 242" stroke="#ff1835" stroke-width="6" fill="none" filter="url(#redGlow)"/>
+ <text x="800" y="315" fill="#f4f1f2" font-size="36" font-weight="600">B.Tech CSE  •  Artificial Intelligence &amp; Machine Learning</text>
+ <text x="800" y="378" fill="#ff596c" font-size="25" letter-spacing="4">PYTHON  |  SQL BASICS  |  VIBE CODING</text>
+ <text x="800" y="430" fill="#e6dadd" font-size="22" letter-spacing="2">BUILDING NEW TECHNOLOGY • THINK BEYOND LIMITS</text>
+</g>
+</svg>
