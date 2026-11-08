@@ -1,23 +1,18 @@
-
-<!--
-  SPIDER-MAN DEVELOPER PROFILE
-  BANOTHU NAVALOK NAIK
--->
-
 <div align="center">
 
-<img src="./spiderman-profile.png" width="100%" alt="Spider-Man themed developer banner"/>
+<img src="assets/spider-banner.svg" alt="Banothu Navalok Naik — Spider-inspired developer banner" width="100%">
 
-<br/>
+<br>
 
-# 🕷️ BANOTHU NAVALOK NAIK
+### 🕷️ WELCOME TO MY SPIDER-VERSE 🕸️
 
-### `Aspiring AI/ML Engineer | Python Developer | Tech Explorer`
+**BANOTHU NAVALOK NAIK**  
+*B.Tech CSE — Artificial Intelligence & Machine Learning*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF3030&center=true&vCenter=true&width=600&lines=Welcome+to+my+Web!;Building+AI-powered+Solutions;Learning+%7C+Building+%7C+Innovating;With+Great+Code+Comes+Great+Responsibility!" alt="Typing SVG"/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navaloknaik18)
-[![Profile Views](https://komarev.com/ghpvc/?username=navaloknaik18&color=red&style=for-the-badge)](https://github.com/navaloknaik18)
+<p>
+  <img src="https://img.shields.io/badge/FOCUS-Building%20New%20Technology-e5092b?style=for-the-badge&logo=spider&logoColor=white" alt="Focus: Building new technology">
+  <img src="https://img.shields.io/badge/STYLE-Vibe%20Coding-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Vibe coding">
+</p>
 
 </div>
 
@@ -25,113 +20,49 @@
 
 ## 🕸️ ABOUT THE DEVELOPER
 
-```python
-class Developer:
+- 🎓 Pursuing **B.Tech in Computer Science and Engineering (AI & ML)**.
+- 🐍 Learning and building with **Python**.
+- 🗄️ Exploring **SQL fundamentals**.
+- ⚡ Interested in **vibe coding** and turning ideas into technology.
+- 🚀 Curious about how things work and excited to create what comes next.
 
-    def __init__(self):
-        self.name = "Banothu Navalok Naik"
-        self.role = "Aspiring AI/ML Engineer"
-        self.language = ["Python", "SQL", "C"]
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Web Development",
-            "Problem Solving"
-        ]
-        self.current_focus = "Building intelligent applications"
+> *“With great curiosity comes the power to build great things.”*
 
-    def motto(self):
-        return "Learn. Build. Innovate. Repeat."
-
-me = Developer()
-```
-
-🕷️ I am a passionate technology enthusiast who loves exploring AI, developing applications, and turning innovative ideas into real-world projects.
-
-## 🔴 MY TECH STACK
+## 🧪 TECH TOOLKIT
 
 <div align="center">
 
-### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,mysql,vscode,git,github&theme=dark" alt="Python, SQL, VS Code, Git and GitHub icons">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+<br><br>
 
-### Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=flask,mysql,git,github,vscode" />
-
-### Currently Exploring
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/SQL-Basics-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL basics">
+<img src="https://img.shields.io/badge/Vibe_Coding-Creating-ff1835?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Vibe coding">
 
 </div>
 
----
-
-## 🕷️ PROJECTS FROM MY WEB
-
-### 01. TINA — Intelligent Navigation Assistant
-
-An AI-powered educational and career guidance platform.
-
-- Career roadmaps
-- Academic assistance
-- Learning guidance
-- Project recommendations
-
-### 02. JARVIS — Personal AI Assistant
-
-A Python-based desktop assistant focused on voice interaction and automation.
-
-- Voice commands
-- Desktop assistance
-- Task automation
-
-### 03. CarryMate — Travel-Based Package Sharing
-
-A logistics concept connecting people travelling along the same route with package senders.
-
-### 04. BugHunter18 — AI Testing Agent
-
-An AI-based software testing concept for identifying bugs in authorized applications.
-
----
-
-## 🔥 WHAT I'M CURRENTLY WORKING ON
-
-- 🧠 Exploring Artificial Intelligence and Machine Learning.
-- 🐍 Improving Python programming.
-- 🌐 Building full-stack applications.
-- 💻 Practising Data Structures and Algorithms.
-- 🚀 Developing useful real-world projects.
-
----
-
-## 📊 MY GITHUB STATISTICS
+## 🎯 WHAT DRIVES ME
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=navaloknaik18&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF3030&icon_color=FF3030&text_color=FFFFFF&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaloknaik18&layout=compact&theme=dark&bg_color=0D1117&title_color=FF3030&text_color=FFFFFF&hide_border=true" />
-
-<br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=navaloknaik18&theme=dark&background=0D1117&ring=FF3030&fire=FF3030&currStreakLabel=FF3030&hide_border=true" />
+| 🧠 Curiosity | ⚙️ Creativity | 🚀 Innovation |
+|:---:|:---:|:---:|
+| Keep learning | Turn ideas into experiments | Build useful technology |
 
 </div>
 
----
-
-## 🕸️ MY DEVELOPER PHILOSOPHY
+## 📊 GITHUB ACTIVITY
 
 <div align="center">
 
-### "With Great Code Comes Great Responsibility."
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=navaloknaik18&show_icons=true&hide_border=true&bg_color=080808&title_color=ff2948&icon_color=ff2948&text_color=f5eeee&ring_color=ff2948" alt="GitHub statistics">
 
-**DREAM BIG. BUILD BIGGER.**
+<img height="165" src="https://streak-stats.demolab.com?user=navaloknaik18&hide_border=true&background=080808&ring=ff2948&fire=ff2948&currStreakLabel=ff2948&sideLabels=f5eeee&currStreakNum=f5eeee&sideNums=f5eeee&dates=aaaaaa" alt="GitHub contribution streak">
 
-🕷️ Keep Learning | Keep Building | Keep Innovating 🕷️
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=navaloknaik18&bg_color=080808&color=f5eeee&line=ff2948&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph">
 
 </div>
 
@@ -139,10 +70,10 @@ An AI-based software testing concept for identifying bugs in authorized applicat
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:FF3030&height=120&section=footer" width="100%"/>
+### 🕷️ KEEP LEARNING. KEEP BUILDING. KEEP INNOVATING. 🕸️
 
-### 🕷️ THANKS FOR VISITING MY WEB!
+**“A better tomorrow is built one line of code at a time.”**
 
-**Made with ❤️ by BANOTHU NAVALOK NAIK**
+<img src="https://komarev.com/ghpvc/?username=navaloknaik18&style=for-the-badge&color=e5092b&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
