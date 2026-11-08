@@ -77,4 +77,120 @@
     </tr>
     <tr>
       <td align="center"><b>Web Development</b></td>
-      <td
+      <td align="left">
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Core & Tools</b></td>
+      <td align="left">
+        <img src="https://img.shields.io/badge/DSA-Red?style=for-the-badge&logo=leetcode&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <h2>🎯 FEATURED MISSIONS</h2>
+</div>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 TINA</h3>
+      <p align="center"><i>AI Career Roadmap Platform</i></p>
+      <ul>
+        <li><b>AI-Powered Guidance:</b> Personal academic and career navigation.</li>
+        <li><b>Learning Roadmaps:</b> Tailored skill-building pathways.</li>
+        <li><b>Project Direction:</b> Interactive project selection support.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎙️ JARVIS</h3>
+      <p align="center"><i>Local AI Assistant</i></p>
+      <ul>
+        <li><b>Voice Automation:</b> Natural language desktop interaction.</li>
+        <li><b>System Control:</b> Hands-free local task execution.</li>
+        <li><b>Privacy-First:</b> Locally hosted automation pipeline.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">📦 CarryMate</h3>
+      <p align="center"><i>Travel-Based Package-Sharing Platform</i></p>
+      <ul>
+        <li><b>Route Matching:</b> Connects travelers with package senders traveling along matching paths.</li>
+        <li><b>Peer-to-Peer Logistics:</b> Sustainable, route-optimized delivery solution.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <h2>⚡ CURRENT FOCUS</h2>
+</div>
+
+* 🧠 **AI & Machine Learning:** Neural network architectures, model training, and NLP applications.
+* 💻 **Full-Stack Development:** Python backend systems integrated with dynamic web interfaces.
+* 📊 **Data Structures & Algorithms:** Systematic problem-solving and efficiency optimization.
+
+---
+
+<div align="center">
+  <h2>📈 SPIDER-HQ TELEMETRY & STATS</h2>
+
+  <br/>
+
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=navaloknaik18&show_icons=true&theme=dark&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=0D0000&border_color=8B0000&hide_border=false" alt="Navalok's GitHub Stats" />
+  &nbsp;
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaloknaik18&layout=compact&theme=dark&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=0D0000&border_color=8B0000&hide_border=false" alt="Top Languages" />
+
+  <br/><br/>
+
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=navaloknaik18&theme=dark&background=0D0000&border=8B0000&stroke=FF0000&alarm=FF0000&title=FF0000&text=FFFFFF&dates=999999" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+  <h2>🕸️ CONNECT & SIGNAL</h2>
+
+  <br/>
+
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;
+  <a href="mailto:example@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/navaloknaik18">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+
+  <br/><br/>
+
+  <pre style="color: #FF2E2E; font-family: monospace;">
+           ___
+         / ::: \
+        | :::: |
+         \ ::: /
+          `---'
+     🕷️ CODE • BUILD • INNOVATE 🕷️
+"With great code comes great responsibility."
+  </pre>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer" width="100%" alt="Footer Banner"/>
+
+</div>
